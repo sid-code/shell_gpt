@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 shell-gpt: An interface to OpenAI's GPT-3 API
 
